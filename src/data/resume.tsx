@@ -4,7 +4,7 @@ import { FacebookIcon, HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Mark Ivanbern Loque",
   initials: "ML",
-  url: "https://dillion.io",
+  url: "",
   location: "Bacoor Cavite",
   locationLink: "14.444716524373357, 120.94721612387869",
   description:
